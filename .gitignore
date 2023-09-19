@@ -1,0 +1,5 @@
+secrets.yaml
+vault-pass
+.vscode/
+examples/roles/roles
+inventory
